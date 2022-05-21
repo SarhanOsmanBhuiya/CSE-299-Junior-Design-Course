@@ -1,0 +1,2 @@
+# CSE-299-Junior-Design-Course
+Developed a wearable movement assistant device for visually impaired individuals using echolocation (Junior Design Project) ➢ Interfaced an Arduino, set of vibrating motors, and sonar sensors ➢ Used 8266 WIFI MODULE to start/stop the device using Google Assistant from a phone ➢ Programmed the Arduino using C++ to process data obtained by the sonar sensors ➢ The output is provided in the form of varying degrees of vibration based on the distance of the object.
